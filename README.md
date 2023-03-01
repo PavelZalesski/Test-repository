@@ -1,2 +1,2 @@
 # Test-repository
-Pavel Z
+Pavel Zalesski
